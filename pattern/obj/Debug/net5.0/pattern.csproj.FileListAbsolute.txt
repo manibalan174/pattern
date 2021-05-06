@@ -1,0 +1,16 @@
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.exe
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.deps.json
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.runtimeconfig.json
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.runtimeconfig.dev.json
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.dll
+D:\Manibalan\pattern\bin\Debug\net5.0\ref\pattern.dll
+D:\Manibalan\pattern\bin\Debug\net5.0\pattern.pdb
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.csprojAssemblyReference.cache
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.AssemblyInfoInputs.cache
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.AssemblyInfo.cs
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.csproj.CoreCompileInputs.cache
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.dll
+D:\Manibalan\pattern\obj\Debug\net5.0\ref\pattern.dll
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.pdb
+D:\Manibalan\pattern\obj\Debug\net5.0\pattern.genruntimeconfig.cache
